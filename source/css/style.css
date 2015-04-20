@@ -1,0 +1,14 @@
+
+.divider{
+  /*display: inline-block;*/
+  /*float: left;*/
+}
+.breadcrumb {
+  white-space: nowrap;
+}
+.breadcrumb>li {
+  overflow: hidden;
+}
+.bread {
+  width: 50%;
+}
